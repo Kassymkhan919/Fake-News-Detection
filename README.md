@@ -22,13 +22,13 @@ Launch it with this command:
 The Dataset can be downloaded here: https://www.kaggle.com/datasets/hassanamin/textdb3/download
 
 
-Libraries:
+## Libraries:
 `
-import pandas as pd
-import numpy as np
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import MultinomialNB
+  import pandas as pd
+  import numpy as np
+  from sklearn.feature_extraction.text import CountVectorizer
+  from sklearn.model_selection import train_test_split
+  from sklearn.naive_bayes import MultinomialNB
 `
 
 ## To test this model:
