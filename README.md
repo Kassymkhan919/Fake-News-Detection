@@ -23,13 +23,11 @@ The Dataset can be downloaded here: https://www.kaggle.com/datasets/hassanamin/t
 
 
 ## Libraries:
-`
   import pandas as pd
   import numpy as np
   from sklearn.feature_extraction.text import CountVectorizer
   from sklearn.model_selection import train_test_split
   from sklearn.naive_bayes import MultinomialNB
-`
 
 ## To test this model:
 Just modify the text of the news_headline variable. You should add a news headline to it and run the code, it will definitely predict if it is true or fake.
